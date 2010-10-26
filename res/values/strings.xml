@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Raw Audio</string>
+    <string name="my_server">http://pbrisbin.com:8000/mpd.mp3</string>
+    <string name="label">Enter stream url:</string>
+    <string name="play_pause">Play/Pause</string>
+</resources>
