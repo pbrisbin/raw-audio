@@ -6,6 +6,6 @@ me.
 ### Get it
 
 If anyone is interested, you can find an APK of one of the later builds 
-[here](http://pbrisbin.com/static/fileshare/rawAudio.apk).
+[here](http://files.pbrisbin.com/rawAudio.apk).
 
 I welcome all pull requests, this could use a little work.
